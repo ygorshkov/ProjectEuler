@@ -1,4 +1,4 @@
 ProjectEuler
 ============
 
-Project Euler Solutions
+Project Euler problems solutions

@@ -1,0 +1,7 @@
+# no xcode user data
+xcuserdata
+
+*.xccheckout
+
+.DS_Store
+
